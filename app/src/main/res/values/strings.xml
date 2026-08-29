@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orange Cash</string>
+    <string name="login_title">Orange Cash</string>
+    <string name="wallet_number_hint">رقم المحفظة</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="login_button">دخول</string>
+    <string name="transfer_button">تحويل الأموال</string>
+    <string name="back_button">رجوع</string>
+    <string name="confirm_button">تأكيد</string>
+    <string name="done_button">تم</string>
+</resources>
