@@ -4,13 +4,9 @@
     android:height="128dp"
     android:viewportWidth="128"
     android:viewportHeight="128">
-
-    <circle
-        android:cx="64"
-        android:cy="64"
-        android:r="60"
-        android:fillColor="#16A34A" />
-
+    <path
+        android:fillColor="#16A34A"
+        android:pathData="M64,4A60,60 0,1 1,64,124A60,60 0,1 1,64,4Z" />
     <path
         android:fillColor="#FFFFFF"
         android:pathData="M54,86L32,64L38.6,57.4L54,72.8L89.4,37.4L96,44Z" />
