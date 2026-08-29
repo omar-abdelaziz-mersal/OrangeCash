@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 15 40 L 15 68 L 45 68 L 45 40 Z" />
+    <text
+        android:x="30"
+        android:y="50"
+        android:text="Orange"
+        android:textSize="14"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+    <text
+        android:x="30"
+        android:y="65"
+        android:text="Cash"
+        android:textSize="14"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+</vector>
